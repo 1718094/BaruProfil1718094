@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">profil</string>
-    <string name="posting">Posting</string>
-    <string name="pengikut">Followers</string>
-    <string name="mengikuti">Follow</string>
+    <string name="posting">Postingan</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">Mengikuti</string>
     <string name="nama">Nama</string>
     <string name="alamat">Alamat</string>
     <string name="nim">Nim</string>
