@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">profil</string>
     <string name="posting">Posting</string>
     <string name="pengikut">Followers</string>
     <string name="mengikuti">Follow</string>
-    <string name="nama">Nama</string>
-    <string name="alamat">Alamat</string>
+    <string name="nama">Name</string>
+    <string name="alamat">Address</string>
     <string name="nim">Nim</string>
-    <string name="nomer">Nomer</string>
-    <string name="email">Email</string>
+    <string name="nomer">Number</string>
+    <string name="email">E-mail</string>
 </resources>

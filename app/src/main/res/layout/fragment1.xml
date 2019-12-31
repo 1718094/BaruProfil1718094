@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="0dp"
-        android:text="posting"
+        android:text="@string/posting"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="7pt" />
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="168dp"
         android:layout_marginRight="0dp"
-        android:text="pengikut"
+        android:text="@string/pengikut"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="7pt" />
@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="320dp"
         android:layout_marginRight="0dp"
-        android:text="mengikuti"
+        android:text="@string/mengikuti"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="7pt" />
